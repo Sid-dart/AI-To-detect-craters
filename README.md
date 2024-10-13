@@ -1,1 +1,1 @@
-# AI-To-detect-craters-on-any-surface
+# AI-To-detect-craters-on-mars
