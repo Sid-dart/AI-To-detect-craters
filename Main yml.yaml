@@ -1,7 +1,7 @@
 # data.yaml
 
 # Path to the training and validation datasets
-path: /Users/Siddarth Rajesh/OneDrive/Desktop/Final Ai
+path: /Users/Desktop/Final Ai
 train: train/images 
 val: train/images
 
