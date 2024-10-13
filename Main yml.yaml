@@ -1,0 +1,22 @@
+# data.yaml
+
+# Path to the training and validation datasets
+path: /Users/Siddarth Rajesh/OneDrive/Desktop/Final Ai
+train: train/images 
+val: train/images
+
+# Number of classes in the dataset
+nc: 1  # example for 3 classes
+
+# Class names
+names: ['Craters']
+
+# Hyperparameters (optional)
+hyp:
+  lr0: 0.01  # initial learning rate
+  lrf: 0.2   # final learning rate
+  momentum: 0.937  # SGD momentum
+  weight_decay: 0.0005  # optimizer weight decay
+  warmup_epochs: 3.0  # warmup epochs
+  warmup_momentum: 0.8  # warmup initial momentum
+  warmup_bias_lr: 0.1  # warmup initial bias lr
